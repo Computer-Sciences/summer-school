@@ -1,0 +1,1 @@
+../bin/replace '@@' ' Hq8<5u8KNy,8KNy,h0_sbVxG=nOfh0_sbVxG=nO8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOffj@{,j17KHl}%a1`PZ!Ur5'\'''  < ./inputs/input/ruin.1038 

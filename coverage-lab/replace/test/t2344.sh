@@ -1,0 +1,1 @@
+../bin/replace ';v;vc2#{V7TVUA[lGcZR)h\M7+(Fn;vc2#{V7TVUA[lGcZR)h\M7+(Fn;vc2#{V7TVUA[lGcZR)h\M7+(Fn;vc2#{V7TVUA[lGcZR)h\M7+(Fnc2#{V7TVUA[lGcZR)h\M7+(Fn[Z-a]^_*[Z-a]^_*' 'foo&'  < ./inputs/input/ruin.506 

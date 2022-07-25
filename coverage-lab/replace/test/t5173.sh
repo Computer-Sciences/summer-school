@@ -1,0 +1,1 @@
+../bin/replace '[^Z-a]^_`a-Z-aZ[]^_`a]' '!5-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_-aA-GZ-a]^_s#S?%gG"i*'  < ./inputs/input/ruin.1051 

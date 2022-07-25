@@ -1,0 +1,1 @@
+../bin/replace '?' 'g//MMd|LTvsuwT0p=!+1pK6/L{i^ja[u`.s--2#{3i)"1UtS|p~Nab;nu~M;r+C'\''$pK6/L{i^ja[0-9]*[a-p]K6/L{i^japK6/L{i^japK6/L{i^japK6/L{i^japK6/L{i^japK6/L{i^japK6/L[0-9]*[a-b]{i^ja'  < ./inputs/input/ruin.1327 

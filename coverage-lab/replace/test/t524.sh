@@ -1,0 +1,1 @@
+../bin/replace '[^a-c][9-B]' '&a@%'  < ./inputs/temp-test/1978.inp.840.3 

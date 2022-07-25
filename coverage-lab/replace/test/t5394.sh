@@ -1,0 +1,1 @@
+../bin/replace '@n%%Eq/SH{S$QV0"e<bz-[(*Z9QSH{@tQV0"e<bz-[(*Z9QSH{S$QV0"e<p-f]Eq/SH{S$QV0"e<bz-[(*Z9QS[8-9]V0"$<bz-[(*Z9QSH{S$QV0"e<p-f]Eq/SH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<p-f]Eq/SH{S$Q*0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<p-f]Eq/SH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<A[^a-c][0-9]@[*' '&a@%'  < ./inputs/temp-test/589.inp.253.1 

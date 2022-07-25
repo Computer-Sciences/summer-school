@@ -1,0 +1,1 @@
+../bin/replace '*' 'H4{}`[,(g4eKdkV-$X;D32HgE %[Qrg"nm&,iYO"EGYFqntnujmPVm<T=X[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n[Z-a]^_`a]*@n'  < ./inputs/input/ruin.75 

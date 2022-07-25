@@ -1,0 +1,1 @@
+../bin/replace '?[^0-9]' 'J?Stj%,|9I{FxV*qi!{_(dn*K9`$woNwuJe?Stj%,|9I{FxV*qi!{_(dn*K9`$woNwuJe?Stj%,|9I{FxV*qi!{_(dn*K9`$woNwuJe?Stj%,|9I{FxV*qi!{_(dn*K9`$woNwuJe?Stj%,|9I{FxV*qi!{_(dn*K9`$woNwuJe?Stj%,|9I{FxV*qi!{_(dn*K9`$woNwuJe?Stj%,|9I{FxV*qi!{_(dn*K9`$woNwuJe?Stj%,|9I{FxV*qi!{_(dn*K9`$wo[0-9]NwuJe'  < ./inputs/input/ruin.1332 

@@ -1,0 +1,1 @@
+../bin/replace '%?[^@n]^[@@][0-9]??-]temp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.intemp-test/1183.i-*[^a-b]-*-*[^a-b]-*-*[^a-b]-*-*[^a-b]-*n' 'NEW'  < ./inputs/temp-test/1127.inp.484.5 

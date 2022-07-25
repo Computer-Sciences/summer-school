@@ -1,0 +1,1 @@
+../bin/replace ''\''vb(#?' 'E[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&!Ur[8o>B'\''+shEe>eT4x )#X}](v'\''=1Gx2W&!Ur[8o>B'\'[a-z]*[0-9]*'+shEe>eT4x )#X}](v'\''=1Gx2W&!Ur'  < ./inputs/input/ruin.1328 

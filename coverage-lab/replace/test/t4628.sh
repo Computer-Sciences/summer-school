@@ -1,0 +1,1 @@
+../bin/replace '[EZ-a]^_`a]?' 'Btemp-test/229.inp.1temp-test/229.inp.1temp-test/229.inp.1temp-test/229.inp.1temp-test/229.inp.1*?@t*[^0-9][0-9]*?@t*[^0-9][0-9]*?@t*[^0-9][0-9]*?@t*[^0-9][0-9]6*?@t*[^0-9][0-9]'  < ./inputs/input/ruin.1344 

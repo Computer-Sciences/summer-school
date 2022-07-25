@@ -1,0 +1,1 @@
+../bin/replace '%)0J&Y6XsP[0-9]3aKh3HTW9ITsk@m9* * s4{Ym@&Eg1[G|ntmx;o|2xwF})0J&Y6XsPqpxC53aKh3HTW9ITsk@m9[]Oys4{Ym@&Eg*[G|ntmx;o|2xwF})0J&Y6XsPqpxC53aKh3HTW9ITsk@m9aFOys4{Ym@&Eg1[G|ntmx;o|2xwF[Z-a]^_[Z-a]^_*[Z-a]^_*' 'a'   < ./inputs/input/ruin.1616 

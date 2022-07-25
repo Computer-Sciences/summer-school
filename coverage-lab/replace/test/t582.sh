@@ -1,0 +1,1 @@
+../bin/replace '[^p&y=3[ZYp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIIgTBkz-}Z-a]^_`a-z-}z-}]' 'v5xI27<*qtgs#`vmdnC IH['  < ./inputs/input/ruin.1333 

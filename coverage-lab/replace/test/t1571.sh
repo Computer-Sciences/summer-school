@@ -1,0 +1,1 @@
+../bin/replace '*' 'b$MbJwgx z1X{xc0.PG"hg]OjMQ$ol]SYG!<.<bJwgx z1X{xc0.PG"hg]OjMQ$ol]SYG!<.<bJwgx z1X{xc0.PG"hg]OjMQ$ol]SYG!<.<bJwgx z1X{xc0.PG"hg]OjMQ$ol]SYG!<.<bJwgx z1X{xc0.PG"hg]OjMQ$ol]SYG!<.<]}*[0-9]*[a-z]'  < ./inputs/input/ruin.1334 

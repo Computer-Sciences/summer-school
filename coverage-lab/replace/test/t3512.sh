@@ -1,0 +1,1 @@
+../bin/replace '@@' '_Y}LC6.Z_G:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JGbw.3gyV:Q0er!>'  < ./inputs/input/ruin.1041 

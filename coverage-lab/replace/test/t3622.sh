@@ -1,0 +1,1 @@
+../bin/replace '@@'\''B9z^p-f]Eq/SH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9QSH{S$QV0"e<bz-[(*Z9Q' 'SH{S$QV0"e<b[0-9]--*[^a-c][0-9]--*[^a-c][0-9]--*[^a-c][0-9]--*[^a-c]z-[(*Z9Q'  < ./inputs/input/ruin.635 

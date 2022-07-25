@@ -1,0 +1,1 @@
+../bin/replace '?' '8l;V3&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J43&YEy?NDqT |ye3E+7WmBD#X-J4'  < ./inputs/input/ruin.1337 

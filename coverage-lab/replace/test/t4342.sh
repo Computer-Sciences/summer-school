@@ -1,0 +1,1 @@
+../bin/replace '[0-9]-' 'a@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tca@nb@tc'  < ./inputs/temp-test/1029.inp.443.1 

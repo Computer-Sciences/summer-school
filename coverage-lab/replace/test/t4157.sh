@@ -1,0 +1,1 @@
+../bin/replace 'A?' 'n|G:]y;Zm{7<\G:]y;Zm{7<\33O~h_J33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_Jp'  < ./inputs/input/ruin.1043 

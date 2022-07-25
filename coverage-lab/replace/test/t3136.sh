@@ -1,0 +1,1 @@
+../bin/replace '?p&y=3[ZYIgNLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1A]NLF]{HC<5S)0ft3+1[0-9]A]TBk?[^0-9]*-*?* *[a' '8l;V'  < ./inputs/input/ruin.1337 

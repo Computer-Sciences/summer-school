@@ -1,0 +1,1 @@
+../bin/replace '@n' 'cfP M%;7}!g8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf8KNy,h0_sbVxG=nOf^yda^u5]__z&`%FlMJ7'  < ./inputs/input/ruin.1039 

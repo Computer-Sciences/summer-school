@@ -1,0 +1,1 @@
+../bin/replace 'EW-?-c[0-9][a-c]-?A-?-c[0-9][a-c]-?A-?-cEW-?-c[0-9][a-c]-?A-?-c[0-9][a-c]-?A-?-cEW-?-c[0-9][a-c]-?A-?-c[0-9][a-c]-?A-?-cEW-?-c[0-9][a-c]-?A-?-c[0-9][a-c]-?A-?-cEW-?-c[0-9][a-c]-?A-?-c[0-9][a-c]-?A-?-cEW-?-c[0-9][a-c]-?A-?-c[0-9][a-c]-?A-?-cEW-?-c0-9][a-c]-?A-?-c[0-9][a-c]-?A-?-c[0-9]*' 'l[*U(0T7mn'  < ./inputs/input/ruin.1352 

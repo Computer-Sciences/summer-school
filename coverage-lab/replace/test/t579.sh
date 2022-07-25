@@ -1,0 +1,1 @@
+../bin/replace '[^i]' 'aG:]y;Zm{7<\33O~hG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_JG:]y;Zm{7<\33O~h_J_Jp4?/`+iR&LbrJ},3'  < ./inputs/input/ruin.1040 

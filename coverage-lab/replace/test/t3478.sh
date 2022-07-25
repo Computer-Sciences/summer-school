@@ -1,0 +1,1 @@
+../bin/replace '@@' 'TQ$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?Q$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?Q$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?Q$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?Q$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?Q$$7 E(2%8Q"fiw^tLQ$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?Wk2\)>Wg( 6h8z$?Q$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?Q$$7 E(2%8Q"fiw^tLWk2\)>Wg( 6h8z$?[*[0-9]*@0-9](*'  < ./inputs/input/ruin.1330 

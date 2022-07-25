@@ -1,0 +1,1 @@
+../bin/replace '?p&y=3[Zp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIp&y=3[ZYIYIgTBk' '>b})}d%:+~EdJc2\! ug7;'  < ./inputs/input/ruin.1335 
